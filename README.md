@@ -42,9 +42,9 @@ This program processes a PPM image file and can perfrom image transformation, in
 This program reads the pixels from the PPM file and modifes the RGB value.
 
 
-## Course Description:
+# Course Description:
 Cmput 275 is a introductory computer science course. A list of the specific topics covered include: 
-# The Shell
+## The Shell
 • Executing commands
 • I/O Streams and Redirection
 • Pipelines
@@ -52,7 +52,7 @@ Cmput 275 is a introductory computer science course. A list of the specific topi
 • PATH Variable
 • Shell Scripts
 • Makefiles
-# The C Programming Language
+## The C Programming Language
 • Compilation, and compilation tool chain
 • Static typing
 • Pointers
@@ -61,7 +61,7 @@ Cmput 275 is a introductory computer science course. A list of the specific topi
 • Memory Model and Management
 • Structures
 • Separate Compilation
-# The C++ Programming Language
+## The C++ Programming Language
 • C++ I/O
 • C++ Memory Management
 • References
@@ -75,7 +75,7 @@ Cmput 275 is a introductory computer science course. A list of the specific topi
 • STL Classes
 • Exceptions and Exception Safety
 • Templates
-# Algorithms and Data Structures
+## Algorithms and Data Structures
 • Linked lists
 • Dynamic arrays
 • Graphs
